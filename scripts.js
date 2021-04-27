@@ -39,3 +39,4 @@ function render() {
     }
     localStorage.setItem("produkti", JSON.stringify(produkti))
 }
+
